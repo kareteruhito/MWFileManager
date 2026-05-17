@@ -105,6 +105,10 @@ MWFileManager/
 ├── MainWindow.xaml.cs
 ├── AssemblyInfo.cs
 ├── MWFileManager.csproj
+├── Models/
+|   └── FileItem.cs
+|   └── FileService.cs
+|   └── TreeItem.cs
 └── Helpers/
     └── IconHelper.cs
 ```
