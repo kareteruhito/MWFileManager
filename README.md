@@ -2,6 +2,7 @@
 
 MWFileManager は、WPF / C# で作成したシンプルなファイルマネージャです。  
 ファイルマネージャの基本機能を実装した学習・拡張用のベースプロジェクトです。
+<img width="786" height="443" alt="20260517_135809" src="https://github.com/user-attachments/assets/e3935b8c-030e-4f5a-ae78-6f574479ba93" />
 
 ## 概要
 
